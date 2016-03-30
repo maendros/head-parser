@@ -1,0 +1,25 @@
+{
+  "name": "head-parser",
+  "version": "1.0.0",
+  "description": "an app returning the  ip, language and operating system of the browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maendros/header-parser.git"
+  },
+  "keywords": [
+    "maendros",
+    "header-parser",
+    "freecodecamp"
+  ],
+  "author": "Maendros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maendros/header-parser/issues"
+  },
+  "homepage": "https://github.com/maendros/header-parser#readme"
+}
