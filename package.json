@@ -19,7 +19,13 @@
   "author": "Maendros",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maendros/header-parser/issues"
+    "url": "https://github.com/maendros/head-parser/issues"
   },
-  "homepage": "https://github.com/maendros/header-parser#readme"
+  "homepage": "https://github.com/maendros/head-parser#readme",
+  "dependencies": {
+   
+    "express": "~4.13.4"
+  
+  
+  }
 }
